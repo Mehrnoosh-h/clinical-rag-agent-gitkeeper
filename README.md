@@ -85,7 +85,6 @@ clinical-rag-agent/
 │   └── clinical_notes_rag.ipynb     # Main notebook (full pipeline)
 ├── data/
 │   └── synthetic_clinical_notes_for_rag.pdf
-├── .gitignore
 ├── LICENSE
 └── README.md
 ```
